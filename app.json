@@ -2,5 +2,6 @@
     "name": "IonicTest",
     "description": "A simple Ionic app",
     "repository": "https://github.com/danfaeh/IonicTest",
+  	"logo": "http://ionicframework.com/img/ionic-logo-blog.png",
     "keywords": ["ionic", "SongHop"]
 }
